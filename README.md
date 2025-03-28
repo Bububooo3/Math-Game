@@ -1,0 +1,1 @@
+This is an incomplete version of a commission I did for somebody. They deleted everything I did, so-sadly-this small framework is what remains. Somebody requested that I make this repository public, so they could use it in a game they were making.
